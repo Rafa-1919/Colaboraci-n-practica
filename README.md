@@ -1,2 +1,2 @@
-# Colaboraci-n-practica
+# Colaboracion-practica
 Practica de pull-request
